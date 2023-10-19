@@ -59,8 +59,8 @@ if true {
     let four = "12"
     
     let safeOne = Int(one)
-    
     let safeTwoo = Int(two) ?? 0
+    
     
     let safeThree = Int(three)
     
